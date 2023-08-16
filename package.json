@@ -1,0 +1,38 @@
+{
+  "name": "amazon_parking",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "axios": "^1.4.0",
+    "chartjs": "^0.3.24",
+    "cookie-universal-nuxt": "^2.2.2",
+    "core-js": "^3.25.3",
+    "flowbite-datepicker": "^1.2.2",
+    "lodash": "^4.17.21",
+    "nuxt": "^2.15.8",
+    "nuxt-video-player": "^1.0.17",
+    "sweetalert2": "^11.7.5",
+    "vue": "^2.7.10",
+    "vue-autosuggest": "^2.2.0",
+    "vue-core-video-player": "^0.2.0",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10",
+    "vuetify": "^2.6.15"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.3",
+    "autoprefixer": "^10.4.14",
+    "nuxt-icon": "^0.3.3",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.1"
+  }
+}
